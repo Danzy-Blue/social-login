@@ -1,0 +1,5 @@
+/dist
+/build
+/tools
+/okta-aspnetcore-mvc-example/bin/Debug/netcoreapp3.1
+/.vs/okta-aspnetcore-mvc-example
